@@ -1,4 +1,5 @@
 # URLifier
+Shorten your URLs!
 
 ## What is URLifier?
 Using my tool you will be able to shorten a URL into the same sort of format like bit.ly and other URL shorteners.
